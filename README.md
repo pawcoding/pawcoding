@@ -52,4 +52,5 @@ I have not only realized professional projects, all of which are listed on [my w
 <a href="https://linkedin.com/in/luis-wolf-0a8a261b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-wolf-0a8a261b2" height="30" width="40" /></a>
 <a href="https://instagram.com/paw.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paw.coding" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucmr0jp9jjk4ehhmnkvdggra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmr0jp9jjk4ehhmnkvdggra" height="30" width="40" /></a>
+<a href="https://discord.gg/GzgTh4hxrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GzgTh4hxrx" height="30" width="40" /></a>
 </p>
