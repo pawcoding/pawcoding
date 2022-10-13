@@ -37,7 +37,7 @@ I have not only realized professional projects, all of which are listed on [my w
 
 - 🌱 I’m currently learning **Angular and Remix**
 
-- 👯 I’m looking to collaborate on [Color Palette Generator](https://github.com/pawcoding/tailwind-color-generator)
+- 👯 I’m looking to collaborate on [Rainbow Palette](https://github.com/pawcoding/rainbow-palette)
 
 - 👨‍💻 All of my projects are available at [https://pawcode.de](https://pawcode.de)
 
