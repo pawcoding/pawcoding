@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Germany</h3>
 
 
-I'm currently studying computer science in the 5th semester at the [Julius-Maximilian-University](https://www.informatik.uni-wuerzburg.de/) in Würzburg.
+I'm currently studying computer science in the 6th semester at the [Julius-Maximilian-University](https://www.informatik.uni-wuerzburg.de/) in Würzburg.
 
 I started programming small robots as a child before I started pure software development in high school.
 In my final years, I launched my first two Android apps and took second place in the regional competition Jugend Forscht in the field of computer science with a simulation software.
