@@ -25,23 +25,28 @@ I have not only realized professional projects, all of which are listed on [my w
 | | | | <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> | May 2021
 | | | | <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> | January 2022 |
 | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | February 2022| | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> | February 2022 |
-| | | | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> | February 2022
+| | | | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> | February 2022 |
+| <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | March 2023 | | <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> | March 2023 |
+| | | | <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> | April 2023 |
+| <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> | May 2023 | | <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> | May 2023 |
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcoding&show_icons=true&locale=en&layout=compact" alt="pawcoding" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcoding&show_icons=true&locale=en&layout=compact&theme=algolia" alt="pawcoding" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pawcoding&show_icons=true&locale=en&count_private=true&theme=algolia&hide_title=true" alt="pawcoding" /></p>
 
 
 <h3 align="left">Random infos</h3>
 
 - 🔭 I’m currently working on **Personal and commercial websites**
 
-- 🌱 I’m currently learning **Angular and Remix**
+- 🌱 I’m currently learning **Angular, NestJS & CI/CD**
 
 - 👯 I’m looking to collaborate on [Rainbow Palette](https://github.com/pawcoding/rainbow-palette)
 
 - 👨‍💻 All of my projects are available at [https://pawcode.de](https://pawcode.de)
 
-- 💬 Ask me about **node and TailwindCSS**
+- 💬 Ask me about **Angular and TailwindCSS**
 
 - 📫 How to reach me **contact@pawcode.de**
 
