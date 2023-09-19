@@ -8,7 +8,7 @@ I started programming small robots as a child before I started pure software dev
 In my final years, I launched my first two Android apps and took second place in the regional competition Jugend Forscht in the field of computer science with a simulation software.
 
 In the meantime, alongside my studies, I have passionately specialized in web servers and the development of websites.
-I have not only realized professional projects, all of which are listed on [my website](https://pawcode.de/), but also work for the university on one or the other project.
+I have not only realized professional projects, all of which are listed on [my website](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub), but also work for the university on one or the other project.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +44,7 @@ I have not only realized professional projects, all of which are listed on [my w
 
 - 👯 I’m looking to collaborate on [Rainbow Palette](https://github.com/pawcoding/rainbow-palette)
 
-- 👨‍💻 All of my projects are available at [https://pawcode.de](https://pawcode.de)
+- 👨‍💻 All of my projects are available at [https://pawcode.de](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub)
 
 - 💬 Ask me about **Angular and TailwindCSS**
 
