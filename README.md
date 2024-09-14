@@ -70,6 +70,13 @@ Here’s a bit more about me:
 
 ---
 
+<h3 align="center">Latest blog posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <h3 align="center">Stats</h3>
 
 <p align="center">
