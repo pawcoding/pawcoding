@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.pawcode.de/rss.xml"
+          max_post_count: 3
+          commit_message: "chore(blog): update blog posts"
