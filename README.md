@@ -1,63 +1,96 @@
-<h1 align="center">Hi 👋, I'm Luis Wolf</h1>
-<h3 align="center">A passionate web developer from Germany</h3>
+<h1 align="center">
+  Hi there!👋
+  <br>
+  I'm Luis Wolf (aka @pawcoding)
+</h1>
 
+<h3 align="center">About Me</h3>
 
-I'm currently studying computer science in the 6th semester at the [Julius-Maximilian-University](https://www.informatik.uni-wuerzburg.de/) in Würzburg.
+I’m a passionate web developer from Germany 🇩🇪, currently working full-time at [snapADDY](https://www.snapaddy.com) while also diving into various personal projects in my spare time.
+Here’s a bit more about me:
 
-I started programming small robots as a child before I started pure software development in high school.
-In my final years, I launched my first two Android apps and took second place in the regional competition Jugend Forscht in the field of computer science with a simulation software.
+#### 🔭 What I Do
 
-In the meantime, alongside my studies, I have passionately specialized in web servers and the development of websites.
-I have not only realized professional projects, all of which are listed on [my website](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub), but also work for the university on one or the other project.
+- **Web Development Enthusiast:**
+  My main focus is on Angular, but I love experimenting with all things related to web technologies.
+- **Open Source Projects:**
+  I started to a variety of small open-source projects.
+  My biggest project is [Rainbow Palette](https://github.com/pawcoding/rainbow-palette), along with many others you can explore here on GitHub.
+- **Blogging:**
+  Over at [blog.pawcode.de](https://blog.pawcode.de/?mtm_compaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub), I share my experiences, code experiments, and thoughts on web development.
 
+#### 💼 Professional Life
 
-<h3 align="left">Languages and Tools:</h3>
+- I’m proud to be part of the team at [snapADDY](https://www.snapaddy.com) 🚀, where I apply my skills to build awesome products.
+- I hold a Bachelor’s degree in Computer Science and love applying my knowledge to real-world projects.
 
-| Language | Working with since |   | Framework / Tool | Working with since |
-| -------- | ------------------ | - | ---------------- | ------------------ |
-| <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> | September 2017
-| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | October 2018
-| <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | October 2018
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | February 2020 |
-| <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> | September 2020 |
-| <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> | September 2020 | | <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> | September 2020
-| <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | May 2021 | | <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> | May 2021 |
-| | | | <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> | May 2021
-| | | | <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> | January 2022 |
-| <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | February 2022| | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> | February 2022 |
-| | | | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> | February 2022 |
-| <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | March 2023 | | <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> | March 2023 |
-| | | | <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> | April 2023 |
-| <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> | May 2023 | | <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> | May 2023 |
-| | | | <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> | August 2023 |
-| | | | <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> | September 2023 |
+#### 🌱 Side Projects & Fun
 
+- I love building websites for friends and others.
+  You can check out some of my work on my [portfolio](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub).
+- One of my proudest achievements is creating the [Forum für Antike und Gesellschaft](https://forum-antike-und-gesellschaft.de/?mtm_campaign=Partner&mtm_source=pawcode&mtm_kwd=GitHub%20Profile) for my university.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcoding&show_icons=true&locale=en&layout=compact&theme=algolia" alt="pawcoding" /></p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pawcoding&show_icons=true&locale=en&count_private=true&theme=algolia&hide_title=true" alt="pawcoding" /></p>
+<h3 align="center">Languages and Tools</h3>
 
+<p align="center">
+  <b>Frameworks</b>
+  <br />
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=angular,reactivex,astro,nestjs,express,nodejs&theme=light" />...
+  <br />
+  <b>Languages</b>
+  <br />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts&theme=light" />...
+  <br />
+  <b>Databases</b>
+  <br />
+  <img alt="Databases" src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis&theme=light" />...
+  <br />
+  <b>Tools</b>
+  <br />
+  <img alt="Tools" src="https://skillicons.dev/icons?i=vercel,github,pnpm,npm,vscode&theme=light" />...
+</p>
 
-<h3 align="left">Random infos</h3>
+---
 
-- 🔭 I’m currently working on **Personal and commercial websites**
+<h3 align="center">Random infos</h3>
+
+- 🔭 I’m currently working on **Websites and Webapps** (open-source, private and for [snapADDY](https://www.snapaddy.com))
 
 - 🌱 I’m currently learning **Angular, NestJS & CI/CD**
 
 - 👯 I’m looking to collaborate on [Rainbow Palette](https://github.com/pawcoding/rainbow-palette)
 
-- 👨‍💻 All of my projects are available at [https://pawcode.de](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub)
+- 👨‍💻 All of my projects are available at [pawcode.de](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub)
 
 - 💬 Ask me about **Angular and TailwindCSS**
 
-- 📫 How to reach me **contact@pawcode.de**
+- 📫 Reach me at **contact@pawcode.de** or on social media
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pawcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis-wolf-0a8a261b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-wolf-0a8a261b2" height="30" width="40" /></a>
-<a href="https://instagram.com/paw.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paw.coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucmr0jp9jjk4ehhmnkvdggra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmr0jp9jjk4ehhmnkvdggra" height="30" width="40" /></a>
-<a href="https://discord.gg/GzgTh4hxrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GzgTh4hxrx" height="30" width="40" /></a>
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcoding&show_icons=true&locale=en&layout=compact" alt="pawcoding" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawcoding&show_icons=true&locale=en&count_private=true&hide_title=true" alt="pawcoding" />
+</p>
+
+<p align="right">
+  <sub>
+    <em>
+      (Not including my private work account)
+    </em>
+  </sub>
+</p>
+
+---
+
+<h3 align="center">Contact</h3>
+<p align="center">
+  <a href="https://instagram.com/paw.coding" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paw.coding" height="30" width="40" /></a>
+  <a href="https://discord.gg/GzgTh4hxrx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GzgTh4hxrx" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/luis-wolf-0a8a261b2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-wolf-0a8a261b2" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ucmr0jp9jjk4ehhmnkvdggra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmr0jp9jjk4ehhmnkvdggra" height="30" width="40" /></a>
 </p>
