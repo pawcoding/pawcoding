@@ -76,8 +76,6 @@ Here’s a bit more about me:
 - [Integrating local AI into Rainbow Palette](https://blog.pawcode.de/posts/local-ai-in-the-browser/)
 - [Automatic deployment with webhooks](https://blog.pawcode.de/posts/automatic-deployment-with-webhooks/)
 - [Building a modern e-learning website](https://blog.pawcode.de/posts/building-a-modern-e-learning-website/)
-- [Yearly review: Looking back at 2023](https://blog.pawcode.de/posts/yearly-review-2023/)
-- [Introduction to HTMX](https://blog.pawcode.de/posts/introduction-to-htmx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
