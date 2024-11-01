@@ -73,9 +73,9 @@ Here’s a bit more about me:
 <h3 align="center">Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Astro Loader](https://blog.pawcode.de/posts/building-an-astro-loader/)
 - [Integrating local AI into Rainbow Palette](https://blog.pawcode.de/posts/local-ai-in-the-browser/)
 - [Automatic deployment with webhooks](https://blog.pawcode.de/posts/automatic-deployment-with-webhooks/)
-- [Building a modern e-learning website](https://blog.pawcode.de/posts/building-a-modern-e-learning-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
