@@ -14,8 +14,11 @@ Here’s a bit more about me:
 - **Web Development Enthusiast:**
   My main focus is on Angular, but I love experimenting with all things related to web technologies.
 - **Open Source Projects:**
-  I started to a variety of small open-source projects.
-  My biggest project is [Rainbow Palette](https://github.com/pawcoding/rainbow-palette), along with many others you can explore here on GitHub.
+  I started to a variety of small open-source projects:
+  [Rainbow Palette](https://github.com/pawcoding/rainbow-palette) is a small web-app that helps you generate color palettes for use with Tailwind.
+  [astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) is a library that connects your PocketBase via Astros Content Layer APIs so you can use data from PocketBase in a type-safe way.
+  [astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) extends the loader above, bringing additional developer tools to work with Astro and PocketBase, like realtime reload of data.
+  [CardStore](https://github.com/pawcoding/card-store) is an Android app, to manage all your loyalty cards digitally.
 - **Blogging:**
   Over at [blog.pawcode.de](https://blog.pawcode.de/?mtm_compaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub), I share my experiences, code experiments, and thoughts on web development.
 
@@ -37,19 +40,19 @@ Here’s a bit more about me:
 <p align="center">
   <b>Frameworks</b>
   <br />
-  <img alt="Frameworks" src="https://skillicons.dev/icons?i=angular,reactivex,astro,nestjs,express,nodejs&theme=light" />...
+  <img alt="Frameworks" src="https://skills.syvixor.com/api/icons?i=angular,rxjs,astro,nestjs,nodejs,vitest,eslint&theme=light" />...
   <br />
   <b>Languages</b>
   <br />
-  <img alt="Languages" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts&theme=light" />...
+  <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=html,md,css,tailwind,js,ts&theme=light" />...
   <br />
   <b>Databases</b>
   <br />
-  <img alt="Databases" src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis&theme=light" />...
+  <img alt="Databases" src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,redis&theme=light" />...
   <br />
   <b>Tools</b>
   <br />
-  <img alt="Tools" src="https://skillicons.dev/icons?i=vercel,github,pnpm,npm,vscode&theme=light" />...
+  <img alt="Tools" src="https://skills.syvixor.com/api/icons?i=vercel,github,githubactions,pnpm,npm&theme=light" />...
 </p>
 
 ---
@@ -58,13 +61,13 @@ Here’s a bit more about me:
 
 - 🔭 I’m currently working on **Websites and Webapps** (open-source, private and for [snapADDY](https://www.snapaddy.com))
 
-- 🌱 I’m currently learning **Angular, NestJS & CI/CD**
+- 🌱 I’m currently learning **Android & CI/CD**
 
-- 👯 I’m looking to collaborate on [Rainbow Palette](https://github.com/pawcoding/rainbow-palette)
+- 👯 I’m looking to collaborate on [CardStore](https://github.com/pawcoding/card-store)
 
 - 👨‍💻 All of my projects are available at [pawcode.de](https://pawcode.de/?mtm_campaign=GitHub&mtm_kwd=Profile&mtm_source=GitHub)
 
-- 💬 Ask me about **Angular and TailwindCSS**
+- 💬 Ask me about **Angular, Astro or PocketBase**
 
 - 📫 Reach me at **contact@pawcode.de** or on social media
 
