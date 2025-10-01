@@ -76,9 +76,9 @@ Here’s a bit more about me:
 <h3 align="center">Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a local AI-powered Summarizer chat](https://blog.pawcode.de/posts/local-summarizer-chat/)
 - [Building an Astro Integration](https://blog.pawcode.de/posts/building-an-astro-integration/)
 - [Yearly review: Looking back at 2024](https://blog.pawcode.de/posts/yearly-review-2024/)
-- [Building an Astro Loader](https://blog.pawcode.de/posts/building-an-astro-loader/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
