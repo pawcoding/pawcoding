@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 
-I’m a passionate web developer from Germany 🇩🇪, currently working full-time at [snapADDY](https://www.snapaddy.com) while also diving into various personal projects in my spare time.
+I’m a passionate web developer from Germany 🇩🇪, currently working full-time at [snapAddy](https://www.snapaddy.com) while also diving into various personal projects in my spare time.
 Here’s a bit more about me:
 
 #### 🔭 What I Do
@@ -24,7 +24,7 @@ Here’s a bit more about me:
 
 #### 💼 Professional Life
 
-- I’m proud to be part of the team at [snapADDY](https://www.snapaddy.com) 🚀, where I apply my skills to build awesome products.
+- I’m proud to be part of the team at [snapAddy](https://www.snapaddy.com) 🚀, where I apply my skills to build awesome products.
 - I hold a Bachelor’s degree in Computer Science and love applying my knowledge to real-world projects.
 
 #### 🌱 Side Projects & Fun
@@ -40,19 +40,19 @@ Here’s a bit more about me:
 <p align="center">
   <b>Frameworks</b>
   <br />
-  <img alt="Frameworks" src="https://skills.syvixor.com/api/icons?i=angular,rxjs,astro,nestjs,nodejs,vitest,eslint&theme=light" />...
+  <img alt="Frameworks" src="https://skills.syvixor.com/api/icons?i=angular,astro,rxjs,zod,nestjs,vitest,materialdesign,nodejs,android&theme=light" />...
   <br />
   <b>Languages</b>
   <br />
-  <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=html,md,css,tailwind,js,ts&theme=light" />...
+  <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=typescript,tailwindcss,css,html,markdown,javascript,kotlin&theme=light" />...
   <br />
   <b>Databases</b>
   <br />
-  <img alt="Databases" src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,redis&theme=light" />...
+  <img alt="Databases" src="https://skills.syvixor.com/api/icons?i=pocketbase,redis,sqlite,postgresql&theme=light" />...
   <br />
   <b>Tools</b>
   <br />
-  <img alt="Tools" src="https://skills.syvixor.com/api/icons?i=vercel,github,githubactions,pnpm,npm&theme=light" />...
+  <img alt="Tools" src="https://skills.syvixor.com/api/icons?i=github,githubactions,githubcopilot,npm,pnpm,vercel,eslint,prettier&theme=light" />...
 </p>
 
 ---
@@ -61,7 +61,7 @@ Here’s a bit more about me:
 
 - 🔭 I’m currently working on **Websites and Webapps** (open-source, private and for [snapADDY](https://www.snapaddy.com))
 
-- 🌱 I’m currently learning **Android & CI/CD**
+- 🌱 I’m currently learning **Android, Astro & CI/CD**
 
 - 👯 I’m looking to collaborate on [CardStore](https://github.com/pawcoding/card-store)
 
