@@ -59,7 +59,7 @@ Here’s a bit more about me:
 
 <h3 align="center">Random infos</h3>
 
-- 🔭 I’m currently working on **Websites and Webapps** (open-source, private and for [snapADDY](https://www.snapaddy.com))
+- 🔭 I’m currently working on **Websites and Webapps** (open-source, private and for [snapAddy](https://www.snapaddy.com))
 
 - 🌱 I’m currently learning **Android, Astro & CI/CD**
 
@@ -86,8 +86,8 @@ Here’s a bit more about me:
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcoding&show_icons=true&locale=en&layout=compact" alt="pawcoding" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawcoding&show_icons=true&locale=en&count_private=true&hide_title=true" alt="pawcoding" />
+  <img align="center" src="https://github.com/pawcoding/pawcoding/raw/refs/heads/main/assets/top-langs.svg" alt="pawcoding used languages" />
+<img align="center" src="https://raw.githubusercontent.com/pawcoding/pawcoding/refs/heads/main/assets/stats.svg" alt="pawcoding stats" />
 </p>
 
 <p align="right">
