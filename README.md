@@ -76,9 +76,9 @@ Here’s a bit more about me:
 <h3 align="center">Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yearly review: Looking back at 2025](https://blog.pawcode.de/posts/yearly-review-2025/)
 - [Introduction to Redis Streams](https://blog.pawcode.de/posts/redis-streams/)
 - [Building a local AI-powered Summarizer chat](https://blog.pawcode.de/posts/local-summarizer-chat/)
-- [Building an Astro Integration](https://blog.pawcode.de/posts/building-an-astro-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
